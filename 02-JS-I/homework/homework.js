@@ -134,7 +134,7 @@ function elevarAlCubo(num) {
 function elevar(num, exponent) {
   // Devuelve el valor de "num" elevado al exponente dado en "exponent"
   // Tu código:
-  
+  //* https://vimeo.com/755206044/f3e4d1ad61 <-- el video de henry *//
 }
 
 function redondearNumero(num) {
